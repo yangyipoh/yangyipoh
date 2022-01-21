@@ -11,14 +11,14 @@ I'm currently learning C++, so do look forward to some interesting projects in t
 Have a great day!
 
 ## Connect with me
-[<img style="margin:5px; width:22px; align:left" alt="codeSTACKr.com" src="png/website.png" />][website]
-[<img style="margin:5px; width:22px; align:left" alt="Twitter" src="png/twitter.png" />][twitter]
-[<img style="margin:5px; width:22px; align:left" alt="LinkedIn" src="png/linkedin.png" />][linkedin]
-[<img style="margin:5px; width:22px; align:left" alt="Instagram" src="png/instagram.png" />][instagram]
+<!-- [<img style="margin:5px; width:40px; align:left" alt="codeSTACKr.com" src="png/website.png" />][website] -->
+[<img style="margin:5px; width:40px; align:left" alt="Twitter" src="png/twitter.png" />][twitter]
+[<img style="margin:5px; width:40px; align:left" alt="LinkedIn" src="png/linkedin.png" />][linkedin]
+[<img style="margin:5px; width:40px; align:left" alt="Instagram" src="png/instagram.png" />][instagram]
 <br>
 
 ### Attribute
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 [website]: https://google.com
 [twitter]: https://twitter.com/YangYiPoh1

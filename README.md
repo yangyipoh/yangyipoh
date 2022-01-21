@@ -12,9 +12,9 @@ Have a great day!
 
 ## Connect with me
 <!-- [<img style="margin:5px; width:40px; align:left" alt="codeSTACKr.com" src="png/website.png" />][website] -->
-[<img style="margin:5px; width:40px; align:left" alt="Twitter" src="png/twitter.png" />][twitter]
-[<img style="margin:5px; width:40px; align:left" alt="LinkedIn" src="png/linkedin.png" />][linkedin]
-[<img style="margin:5px; width:40px; align:left" alt="Instagram" src="png/instagram.png" />][instagram]
+[<img style="margin:10px; width:40px; align:left" alt="Twitter" src="png/twitter.png" />][twitter]
+[<img style="margin:10px; width:40px; align:left" alt="LinkedIn" src="png/linkedin.png" />][linkedin]
+[<img style="margin:10px; width:40px; align:left" alt="Instagram" src="png/instagram.png" />][instagram]
 <br>
 
 ### Attribute
